@@ -12,9 +12,7 @@ public class SONIC_STATE : SONIC_MAIN
 {
     public struct STATE_TYPES
     {
-        private static void SET_STATE<T>()
-        {
-
-        }
+        private static void SET_STATE_TYPE<T>(){}
+        private static void SET_STATE_ENUM(int INDEX){}
     }
 }
